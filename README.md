@@ -29,7 +29,8 @@ décrites dans la documentation Apidae : http://dev.apidae-tourisme.com**
 # Prérequis
 
 Les scripts nécessitent la bibliothèque sitra-api-php pour fonctionner. Il faut
-utiliser [composer](https://getcomposer.org/) pour l'installer :
+utiliser [composer](https://getcomposer.org/) pour
+l'[installer](https://github.com/sitra-tourisme/sitra-api-php/) :
 
 ```
 composer require sitra-tourisme/sitra-api-php
